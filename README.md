@@ -33,17 +33,40 @@ Usermade vampire faction for the opensource game wesnoth.
 
 ![advancement_tree]
 
-### vampire warrior , vampire knight , vampire swordmaster
-![vampire_warrior] ![vampire_warrior_knight] ![vampire_warrior_swordmaster]
+***
+
+### vampire warrior , vampire knight , vampire swordmaster , vampire zealot
+![vampire_warrior] ![vampire_warrior_knight] ![vampire_warrior_swordmaster] ![vampire_warrior_zealot]
+
+***
 
 #### vampire warrior
 ![vampire_warrior]
 
+Special abilities:
+So far none
+
 #### vampire knight
 ![vampire_warrior_knight]
+
+Special abilities:
+So far none
+
+advances to swordmaster or zealot
 
 #### vampire swordmaster
 ![vampire_warrior_swordmaster]
 
+Special abilities:
+So far none
+
+#### vampire zealot
+
+Special abilities:
+So far none
+
+Something defensive with the shield perhaps?
+
+***
 
 
