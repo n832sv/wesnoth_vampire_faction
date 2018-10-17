@@ -1,6 +1,6 @@
 # wesnoth_vampire_faction
 
-Usermade vampire faction for the opensource game wesnoth
+Usermade vampire faction for the opensource game wesnoth.
 
 [vampire_warrior]:images/vampire_warrior.png
 [vampire_warrior_knight]:images/vampire_warrior_knight.png
