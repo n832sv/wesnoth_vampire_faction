@@ -62,6 +62,7 @@ Special abilities:
 So far none
 
 #### vampire zealot
+![vampire_warrior_zealot]
 
 Special abilities:
 So far none
@@ -77,6 +78,8 @@ Something defensive with the shield perhaps?
 
 These names are horrible - any suggestions?
 
+***
+
 #### vampire fighter
 ![vampire_fighter]
 
@@ -88,6 +91,25 @@ These names are horrible - any suggestions?
 
 ***
 
+
+
+### vampire rogue , vampire illusionist , vampire thief
+![vampire_rogue] ![vampire_rogue_illusionist] ![vampire_rogue_thief]
+
+***
+
+#### vampire rogue
+![vampire_rogue]
+
+advances to illusionist or rogue
+
+#### vampire illusionist
+![vampire_rogue_illusionist]
+
+#### vampire thief
+![vampire_rogue_thief]
+
+***
 
 
 
