@@ -44,30 +44,74 @@ Usermade vampire faction for the opensource game wesnoth.
 #### vampire warrior
 ![vampire_warrior]
 
+Description: *Lorem ipsum*
+
 Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
 So far none
 
 #### vampire knight
 ![vampire_warrior_knight]
 
+Description: *Lorem ipsum*
+
 Special abilities:
 So far none
 
-advances to swordmaster or zealot
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
 
 #### vampire swordmaster
 ![vampire_warrior_swordmaster]
 
+Description: *Lorem ipsum*
+
 Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
 So far none
 
 #### vampire zealot
 ![vampire_warrior_zealot]
 
+Description: *Lorem ipsum*
+
 Special abilities:
 So far none
 
-Something defensive with the shield perhaps?
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
 
 ***
 
@@ -83,11 +127,59 @@ These names are horrible - any suggestions?
 #### vampire fighter
 ![vampire_fighter]
 
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
 #### vampire sentry
 ![vampire_fighter_sentry]
 
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
 #### vampire guardian
 ![vampire_fighter_guardian]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
 
 ***
 
@@ -101,15 +193,168 @@ These names are horrible - any suggestions?
 #### vampire rogue
 ![vampire_rogue]
 
-advances to illusionist or rogue
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+advances to illusionist or thief
 
 #### vampire illusionist
 ![vampire_rogue_illusionist]
 
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
 #### vampire thief
 ![vampire_rogue_thief]
 
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
 ***
+
+### vampire mage , vampire sorceress , vampire mystic , vampire evoker , vampire conjurer
+![vampire_mage] ![vampire_mage_sorceress] ![vampire_mage_mystic] ![vampire_mage_evoker] ![vampire_mage_conjurer]
+
+These names are also dubious. Any suggestions?
+
+***
+
+#### vampire mage
+![vampire_mage]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+
+#### vampire sorceress
+![vampire_mage_sorceress]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+#### vampire mystic
+![vampire_mage_mystic]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+#### vampire evoker
+![vampire_mage_evoker]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+#### vampire conjurer
+![vampire_mage_conjurer]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+***
+
 
 
 
