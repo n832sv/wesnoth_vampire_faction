@@ -74,16 +74,17 @@ Something defensive with the shield perhaps?
 
 ### vampire fighter , vampire sentry , vampire guardian
 ![vampire_fighter] ![vampire_fighter_sentry] ![vampire_fighter_guardian]
+
 These names are horrible - any suggestions?
 
 #### vampire fighter
 ![vampire_fighter]
 
 #### vampire sentry
-![vampire_sentry]
+![vampire_fighter_sentry]
 
 #### vampire guardian
-![vampire_guardian]
+![vampire_fighter_guardian]
 
 ***
 
