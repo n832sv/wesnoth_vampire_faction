@@ -355,6 +355,224 @@ So far none
 
 ***
 
+### vampire swordswoman , vampire honorguard
+![vampire_swordswoman] ![vampire_swordswoman_honorguard]
+New name suggestions are welcome
+
+***
+
+#### vampire swordswoman
+![vampire_swordswoman]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+#### vampire honorguard
+![vampire_swordswoman_honorguard]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+***
+
+### vampire noble , vampire aristocrat
+![vampire_noble] ![vampire_aristocrat]
+
+***
+
+#### vampire noble
+![vampire_noble]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+#### vampire aristocrat
+![vampire_aristocrat]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+***
+
+### vampire shaman , vampire witch 
+![vampire_shaman] ![vampire_shaman_witch]
+
+***
+
+#### vampire shaman
+![vampire_shaman]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+#### vampire witch
+![vampire_shaman_witch]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+***
+
+### vampire onna , vampire dame , vampire countess , vampire empress 
+![vampire_onna] ![vampire_onna_dame] ![vampire_onna_countess] ![vampire_onna_empress]
+
+New names.....
+***
+
+#### vampire onna
+![vampire_onna]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+#### vampire dame
+![vampire_onna_dame]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+#### vampire countess
+![vampire_onna_countess]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+#### vampire empress
+![vampire_onna_empress]
+
+Description: *Lorem ipsum*
+
+Special abilities:
+So far none
+
+Cost: Hitpoints: Alignment: MP:
+
+
+Attacks:
+Melee (name) - (value) + specials
+Ranged (name) - (value) + specials
+
+Specials description:
+So far none
+
+
+***
+
 
 
 
