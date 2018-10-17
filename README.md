@@ -34,7 +34,7 @@ Usermade vampire faction for the opensource game wesnoth.
 ![advancement_tree]
 
 ### vampire warrior , vampire knight , vampire swordmaster
-![vampire_warrior] [vampire_warrior_knight] [vampire_warrior_swordmaster]
+![vampire_warrior] ![vampire_warrior_knight] ![vampire_warrior_swordmaster]
 
 #### vampire warrior
 ![vampire_warrior]
