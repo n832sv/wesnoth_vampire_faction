@@ -36,6 +36,17 @@ Usermade vampire faction for the opensource game wesnoth.
 
 ***
 
+Support units unlocked by leader choice:
+
+Vampire Dame unlocks: Vampire Tree
+
+Vampire Knight unlocks: ?
+
+etc.
+
+
+***
+
 ### vampire warrior , vampire knight , vampire swordmaster , vampire zealot
 ![vampire_warrior] ![vampire_warrior_knight] ![vampire_warrior_swordmaster] ![vampire_warrior_zealot]
 
