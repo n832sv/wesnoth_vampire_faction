@@ -26,7 +26,7 @@ Usermade vampire faction for the opensource game wesnoth
 [vampire_shaman_witch]:images/vampire_shaman_witch.png
 [vampire_swordswoman]:images/vampire_swordswoman.png
 [vampire_swordswoman_honorguard]:images/vampire_swordswoman_honorguard.png
-[advancement_tree]:advancement_tree.png
+[advancement_tree]:advancement_tree_2.png
 
 
 ## Unit advancement lines
@@ -34,7 +34,7 @@ Usermade vampire faction for the opensource game wesnoth
 ![advancement_tree]
 
 ### vampire warrior , vampire knight , vampire swordmaster
-![vampire_warrior] ![vampire_knight] ![vampire_swordmaster]
+![vampire_warrior] [vampire_knight] [vampire_swordmaster]
 
 #### vampire warrior
 ![vampire_warrior]
