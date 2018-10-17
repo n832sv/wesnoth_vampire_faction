@@ -196,7 +196,10 @@ So far none
 Description: *Lorem ipsum*
 
 Special abilities:
-So far none
+
+Concealment
+Skirmish at night (yet to be named)
+Sabotage of some sort, currently thinking they could place somekind of disadvantage on units in villages
 
 Cost: Hitpoints: Alignment: MP:
 
@@ -216,7 +219,12 @@ advances to illusionist or thief
 Description: *Lorem ipsum*
 
 Special abilities:
-So far none
+
+Adv. Concealment - also hides at hexes adjacent to villages if it's night
+Skirmish at night (yet to be named)
+Sabotage of some sort (same as above)
+Also receives some defensive ability, such that opponents have less strikes (similar to Deep Elves stardust for an example, but called illusion instead)
+Also some sort of illusion type debuff that weakens opponent in some way (such as all adjacent enemies get -10% cth for an example)
 
 Cost: Hitpoints: Alignment: MP:
 
@@ -235,7 +243,10 @@ So far none
 Description: *Lorem ipsum*
 
 Special abilities:
-So far none
+
+Concealment
+Skirmish at night (yet to be named)
+Humm?
 
 Cost: Hitpoints: Alignment: MP:
 
@@ -357,6 +368,7 @@ So far none
 
 ### vampire swordswoman , vampire honorguard
 ![vampire_swordswoman] ![vampire_swordswoman_honorguard]
+
 New name suggestions are welcome
 
 ***
@@ -402,7 +414,7 @@ So far none
 ***
 
 ### vampire noble , vampire aristocrat
-![vampire_noble] ![vampire_aristocrat]
+![vampire_noble] ![vampire_noble_aristocrat]
 
 ***
 
@@ -426,7 +438,7 @@ So far none
 
 
 #### vampire aristocrat
-![vampire_aristocrat]
+![vampire_noble_aristocrat]
 
 Description: *Lorem ipsum*
 
