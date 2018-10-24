@@ -1,4 +1,4 @@
-# wesnoth_vampire_faction
+# Wesnoth Vampire Faction
 
 Usermade vampire faction for the opensource game wesnoth.
 
