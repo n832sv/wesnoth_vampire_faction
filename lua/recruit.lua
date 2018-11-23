@@ -3,12 +3,12 @@ local on_event = wesnoth.require("on_event")
 
 -- leader id = table of extra recruits
 local recruits_table = {
-    bloodlegacy_vampire_warrior_knight = { "bloodlegacy_vampire_swordswoman", "bloodlegacy_vampire_fighter", } , 
+    bloodlegacy_vampire_warrior_knight = { "bloodlegacy_vampire_swordswoman", "bloodlegacy_vampire_fighter", "bloodlegacy_wolf" } , 
     bloodlegacy_vampire_fighter_guardian = { "bloodlegacy_vampire_shaman", "bloodlegacy_vampire_swordswoman", "bloodlegacy_human_sentinel", } , 
-    bloodlegacy_vampire_freya = { "bloodlegacy_human_ranger", "bloodlegacy_vampire_rogue", } ,
+    bloodlegacy_vampire_freya = { "bloodlegacy_human_ranger", "bloodlegacy_vampire_rogue", "bloodlegacy_elvish_fighter", "bloodlegacy_elvish_archer", } ,
     bloodlegacy_vampire_cabalist = { "bloodlegacy_vampire_rogue", "bloodlegacy_vampire_shaman", "bloodlegacy_human_ranger", } ,
     bloodlegacy_vampire_noble = { "bloodlegacy_vampire_rogue", "bloodlegacy_vampire_shaman",  "bloodlegacy_human_sentinel",  } ,
-    bloodlegacy_vampire_onna_dame = { "bloodlegacy_vampire_onna", "bloodlegacy_vampire_rogue",  "bloodlegacy_vampire_noble", "bloodlegacy_vampire_tree",  } ,
+    bloodlegacy_vampire_onna_dame = { "bloodlegacy_vampire_onna", "bloodlegacy_vampire_rogue",  "bloodlegacy_vampire_noble", "bloodlegacy_vampire_tree", "bloodlegacy_human_samurai", } ,
 };
 
 
